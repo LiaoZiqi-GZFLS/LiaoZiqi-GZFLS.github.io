@@ -1,0 +1,66 @@
+[
+  {
+    "id": 27,
+    "title": "关于我 · 欢迎来到 Controller Log",
+    "slug": "about-me-and-welcome",
+    "excerpt": "你好，欢迎来到 Controller Log。这里记录我的技术思考与实践，也欢迎你留下想法与反馈。",
+    "date": "2026-09-19",
+    "category": "关于与公告"
+  },
+  {
+    "id": 26,
+    "title": "Uptime Kuma 自托管监控体系搭建指南：HTTP、TCP 与 Push 监控",
+    "slug": "uptime-kuma-monitoring",
+    "excerpt": "用 Uptime Kuma 搭建 HTTP、TCP 与 Push 监控，覆盖完整链路并统一告警。",
+    "date": "2026-09-07",
+    "category": "运维与监控"
+  },
+  {
+    "id": 25,
+    "title": "自托管服务备份体系设计：每日自动备份与恢复演练",
+    "slug": "backup-and-restore",
+    "excerpt": "讲清每日自动备份脚本设计、备份范围取舍与恢复演练中常见的三类问题。",
+    "date": "2026-09-07",
+    "category": "运维与监控"
+  },
+  {
+    "id": 24,
+    "title": "自托管服务器的五层纵深防御：从 SSH 加固到统一认证门户",
+    "slug": "security-hardening",
+    "excerpt": "用 SSH 密钥、fail2ban、端口收敛、Authelia 统一认证与路由隔离，构建五层纵深防御。",
+    "date": "2026-09-07",
+    "category": "运维与监控"
+  },
+  {
+    "id": 23,
+    "title": "用三个 Bash 脚本收敛日常运维：状态总览、健康检查与依赖顺序重建",
+    "slug": "ops-scripts-toolchain",
+    "excerpt": "用服务注册表驱动的三个 Bash 脚本统一状态查看、健康检查与依赖顺序重建，并给出常见 Bash 陷阱。",
+    "date": "2026-09-07",
+    "category": "运维与监控"
+  },
+  {
+    "id": 6,
+    "title": "自托管避坑清单：15 个常见问题的现象、根因与解法",
+    "slug": "self-hosting-pitfalls",
+    "excerpt": "汇总自托管常见 15 类问题，按现象、根因、解法与可复用经验组织，覆盖配置、容器网络、镜像与反代。",
+    "date": "2026-09-05",
+    "category": "经验总结"
+  },
+  {
+    "id": 5,
+    "title": "Django 站点暗色模式改造：零回归策略、CSS 变量架构与验证方法",
+    "slug": "django-dark-mode",
+    "excerpt": "讲给既有 Django 站点加明亮/黑暗/跟随系统三态主题的零回归策略、CSS 变量架构与浏览器对比度验证方法。",
+    "date": "2026-09-05",
+    "category": "前端开发"
+  },
+  {
+    "id": 4,
+    "title": "Service Worker 撞上 ForwardAuth：容器日志面板登录死循环排障",
+    "slug": "dozzle-sw-forwardauth",
+    "excerpt": "curl 全绿但浏览器卡死循环：Service Worker 请求被认证中间件劫持，用路由优先级放行静态资源修复。",
+    "date": "2026-09-05",
+    "category": "排障实录"
+  }
+]
