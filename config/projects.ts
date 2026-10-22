@@ -28,7 +28,7 @@ export const projects: Project[] = [
     repo: 'https://github.com/LiaoZiqi-GZFLS/MikuDisappear',
     summary:
       '完全由代码逐帧生成的初音未来 MV：WebGL2 + Canvas2D，render(t) 确定性渲染，18 章、94 行歌词、无脸剪影。',
-    metric: '18 章 · 94 行歌词 · 4:52',
+    metric: '18 章 · 94 行歌词 · 4:55',
     tags: ['WebGL2', 'Canvas2D', 'Creative Coding'],
   },
   {

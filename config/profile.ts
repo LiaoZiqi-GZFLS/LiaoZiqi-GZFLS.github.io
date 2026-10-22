@@ -13,7 +13,7 @@ export const profile = {
   metrics: [
     { value: '105.9 MHz', label: 'LA32R OoO core' },
     { value: '12×', label: 'WRF speedup' },
-    { value: '4:52', label: 'code-generated film' },
+    { value: '4:55', label: 'code-generated film' },
   ],
   focus: [
     {
