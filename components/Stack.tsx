@@ -12,7 +12,7 @@ export function Stack() {
             在做什么
           </h2>
           <p className="mt-3 max-w-2xl text-gray-600 dark:text-gray-400">
-            目前主要在推进：LA32R 四发射探索、WRF 跨任务迁移，以及 Agent-View 的 Windows 感知层。
+            目前主要在推进：LA32R 四发射探索、WRF 跨任务迁移、Agent-View 的 Windows 感知层，以及 GPU 加速微磁学仿真（mumax³ fork）。
           </p>
         </div>
 
